@@ -62,7 +62,7 @@
                                                 <h4 class="mb-0">Login</h4>
                                             </div>
                                         </div>
-                                        <p class="px-2">Welcome back, Malindi water Cases Management.</p>
+                                        <p class="px-2">Welcome back.</p>
                                         <div class="card-content">
                                             <div class="card-body pt-1">
                                             <form method="POST" action="{{ route('login') }}">

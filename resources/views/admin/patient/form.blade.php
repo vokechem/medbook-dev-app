@@ -28,7 +28,7 @@
       </select>
    </div>
    <div class="form-group col-sm-12">
-      <label for="comments">Gender comment:</label>
+      <label for="comments">General comment:</label>
       <input type="text" class="form-control" id="comments" name="comments" required>
    </div>
 </div>

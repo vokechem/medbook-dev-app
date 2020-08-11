@@ -16,6 +16,7 @@ class CreateTblPatientTable extends Migration
         Schema::create('tbl_patient', function (Blueprint $table) {
             $table->id();
             $table->string('name');
+            $table->string('dob');
             $table->unsignedBigInteger('gender_id');
             $table->unsignedBigInteger('service_id');
             $table->string('comments');
